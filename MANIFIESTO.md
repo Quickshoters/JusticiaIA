@@ -33,7 +33,15 @@ Un ecosistema de:
 
 ## ⚠️ Sobre el uso comercial
 
-Este proyecto prohíbe cualquier uso comercial directo o indirecto. Cualquier desarrollo derivado debe **mantener su carácter libre, ético y accesible**. Cualquier intento de convertir este sistema en un producto cerrado o pago será considerado una violación de la licencia.
+Este proyecto prohíbe la comercialización directa del software como producto cerrado o privado. Sin embargo, con el objetivo de garantizar su sostenibilidad a largo plazo y fomentar la creación de empleos, se permitirán ciertos usos comerciales, siempre que el sistema siga siendo libre, accesible y ético. Las excepciones permitidas incluyen:
+
+Desarrollo de hardware: Empresas o individuos podrán crear dispositivos físicos, robots o plataformas que integren este sistema de justicia IA. Estos productos podrán ser comercializados, pero el software subyacente debe seguir siendo completamente abierto y accesible.
+
+Servicios de implementación, soporte y consultoría: Se permitirá que empresas o individuos ofrezcan soporte técnico, consultoría legal, formación, o implementación personalizada del sistema en entornos específicos (como empresas, gobiernos, ONGs), siempre que el código del sistema se mantenga accesible, y no se restrinja el acceso o la posibilidad de modificación del software.
+
+Servicios de validación y certificación: Empresas o entidades podrán ofrecer servicios de validación o certificación de implementaciones específicas del sistema, asegurando que estas implementaciones respeten los principios éticos y legales del proyecto.
+
+La intención de estas excepciones es permitir que se generen empleos e ingresos derivados de la construcción de hardware relacionado, capacitación, mantenimiento del sistema y otros servicios complementarios. Sin embargo, cualquier intento de transformar el software en un producto cerrado, privado o de pago será considerado una violación de la licencia y de los principios fundamentales del proyecto.
 
 ## 🛡️ Cláusula de Protección de Idea y Propósito Original
 
