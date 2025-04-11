@@ -52,6 +52,6 @@ Este manifiesto forma parte integral de la identidad legal y filosófica del pro
 
 ---
 
-**Autor:** TuNombreAquí  
-**Fecha de inicio:** [Fecha de publicación]  
-**Repositorio oficial:** [URL futura]
+**Autor:** Aun no es publico el nombre del autor.
+**Fecha de inicio:** jueves, 10 de abril de 2025
+**Repositorio oficial:** proximamente.
