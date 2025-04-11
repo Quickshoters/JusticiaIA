@@ -43,6 +43,33 @@ Servicios de validación y certificación: Empresas o entidades podrán ofrecer 
 
 La intención de estas excepciones es permitir que se generen empleos e ingresos derivados de la construcción de hardware relacionado, capacitación, mantenimiento del sistema y otros servicios complementarios. Sin embargo, cualquier intento de transformar el software en un producto cerrado, privado o de pago será considerado una violación de la licencia y de los principios fundamentales del proyecto.
 
+🔴 **Responsabilidad por uso indebido y demandas legales**
+
+El proyecto Justicia IA está diseñado para ser utilizado de manera ética y responsable. Si un gobierno, entidad o individuo manipula el sistema de alguna manera para fines fraudulentos, corruptos o ilegales, como alterar el código, ocultar el código fuente o utilizar el sistema para manipular sentencias o decisiones legales, será sujeto a responsabilidades legales y financieras severas.
+
+Responsabilidad por abuso malicioso o demanda infundada:
+Si una persona, gobierno o entidad presenta una demanda legal contra otra parte basada en el uso indebido del sistema, pero la evidencia no es completamente clara o los hechos no son suficientemente verificables, la demanda no será válida. Si se demuestra que la acusación carece de pruebas sólidas y es resultado de un malentendido o error no intencional, la parte demandante no tendrá derecho a la compensación económica o a cualquier acción legal favorable.
+
+En este sentido, las siguientes condiciones deben cumplirse para que una demanda sea válida:
+
+Evidencia clara y verificable: Los hechos alegados deben ser comprobables con evidencia directa, y la responsabilidad por la alteración o mal uso del sistema debe ser probada sin lugar a dudas.
+
+Responsabilidad por error no intencional: Si se demuestra que un error de implementación, mantenimiento o uso del sistema fue causado sin intención de fraude o manipulación, y fue de naturaleza accidental o involuntaria, el sistema no será considerado culpable, y la demanda no procederá.
+
+Suspensión de licencia en caso de violación no intencional: Si se determina que el mal uso del sistema fue un error y no una violación intencional de las condiciones, la licencia de uso del sistema será suspendida temporalmente para permitir una corrección de la situación, pero no se procederá a demandar por daños financieros.
+
+🛡️ **Protección contra demandas infundadas**
+
+Para proteger a los usuarios del sistema de demandas injustas, las siguientes medidas se implementarán:
+
+Evaluación de validez de demandas: Antes de que se inicie un proceso de demanda, se evaluará cuidadosamente la evidencia presentada y si hay suficientes pruebas claras de que el mal uso del sistema ha causado daños. Las demandas basadas en suposiciones o hechos dudosos serán descartadas.
+
+Mecanismo de resolución de disputas independiente: En caso de que haya desacuerdos sobre la responsabilidad en el uso del sistema, se podrá acudir a una entidad neutral o un panel internacional que evalúe los hechos y determine la validez de la demanda antes de que se proceda.
+
+Restitución de derechos: Si se determina que la parte acusada cometió un error no intencional, se restaurará su acceso y derechos sobre el sistema, siempre que se corrija la causa del error y se implemente una solución técnica.
+
+
+
 ## 🛡️ Cláusula de Protección de Idea y Propósito Original
 
 Este proyecto no solo protege su código, sino también **la idea fundacional completa**:
@@ -57,6 +84,8 @@ Queda prohibido, explícitamente, que cualquier persona o entidad:
 - Aproveche esta idea para fines lucrativos sin conservar la apertura total del sistema.
 
 Este manifiesto forma parte integral de la identidad legal y filosófica del proyecto, y se acoge a los principios de las licencias copyleft más restrictivas, como la AGPL v3.
+
+
 
 ---
 
